@@ -1,4 +1,3 @@
-```markdown
 # Cross-Lingual Edge Keyword Spotting (KWS): Phonetic Hard Negative Mining for Bilingual Indic-English Environments
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -70,10 +69,6 @@ Because always-on microcontroller DSPs (ARM Cortex-M4/M7, ESP32-S3) operate unde
 │                                     ──► 500 ms Debounce Lockout (NMS)             │
 │                                     ──► 95.8% False Alarm Reduction               │
 └───────────────────────────────────────────────────────────────────────────────────┘
-
-```
-
----
 
 ## Methodology
 
