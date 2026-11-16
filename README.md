@@ -69,7 +69,7 @@ Because always-on microcontroller DSPs (ARM Cortex-M4/M7, ESP32-S3) operate unde
 │                                     ──► 500 ms Debounce Lockout (NMS)             │
 │                                     ──► 95.8% False Alarm Reduction               │
 └───────────────────────────────────────────────────────────────────────────────────┘
-
+```
 ## Methodology
 
 ### 1. Cross-Lingual Phonetic Matrix Pre-Check
